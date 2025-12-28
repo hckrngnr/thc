@@ -1,8 +1,8 @@
-# HackerChat 
+# THC - The Hacker Chat 
 
 # SECTION 1: THE ELEVATOR PITCH 
 
-> "HackerChat is the most secure messaging platform ever built. Every message is encrypted with PGP — the same encryption trusted by journalists and whistleblowers for 30 years. But we didn't stop there. Your connection travels through TLS 1.3, OpenVPN, and the TOR network — three layers of military-grade tunnel encryption before your message even leaves your network. And your encryption keys? Locked in hardware security chips that even forensic tools cannot penetrate. This isn't just encrypted messaging. This is communications infrastructure built for a world where privacy is under attack."
+> "THC - The Hacker Chat is the most secure messaging platform ever built. Every message is encrypted with PGP — the same encryption trusted by journalists and whistleblowers for 30 years. But we didn't stop there. Your connection travels through TLS 1.3, OpenVPN, and the TOR network — three layers of military-grade tunnel encryption before your message even leaves your network. And your encryption keys? Locked in hardware security chips that even forensic tools cannot penetrate. This isn't just encrypted messaging. This is communications infrastructure built for a world where privacy is under attack."
 
 ---
 
@@ -40,15 +40,15 @@
 - Only works Apple-to-Apple
 - No anonymity features
 
-### What Makes HackerChat Different:
+### What Makes THC - The Hacker Chat Different:
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
-║                    THE HACKERCHAT SECURITY STACK                          ║
+║                    THE THC - The Hacker Chat SECURITY STACK                          ║
 ║                    "Defense in Depth Architecture"                        ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║                                                                           ║
-║   OTHER APPS:                      HACKERCHAT:                            ║
+║   OTHER APPS:                      THC - The Hacker Chat:                            ║
 ║   ═══════════                      ═══════════                            ║
 ║                                                                           ║
 ║   Your Device                      Your Device                            ║
@@ -62,7 +62,7 @@
 ║   ❌ One layer                         │ TOR Network (anonymous routing)  ║
 ║   ❌ IP exposed                        │     │                            ║
 ║   ❌ Location known                    │     ▼                            ║
-║   ❌ Metadata collected               HackerChat Server                   ║
+║   ❌ Metadata collected               THC - The Hacker Chat Server                   ║
 ║                                       (cannot see your real IP)           ║
 ║                                                                           ║
 ║                                    ✅ Four encryption layers              ║
@@ -73,9 +73,9 @@
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-### The Real Threats HackerChat Defeats:
+### The Real Threats THC - The Hacker Chat Defeats:
 
-| Attack Type | Other Apps | HackerChat |
+| Attack Type | Other Apps | THC - The Hacker Chat |
 |-------------|-----------|------------|
 | **Message interception** | ⚠️ TLS only | ✅ PGP + TLS 1.3 + VPN + TOR |
 | **IP address logging** | ❌ Server sees your IP | ✅ TOR hides your real IP |
@@ -89,19 +89,19 @@
 
 ---
 
-# SECTION 3: THE SOLUTION (What HackerChat Offers)
+# SECTION 3: THE SOLUTION (What THC - The Hacker Chat Offers)
 
-## HackerChat: The Most Secure Messaging Platform Ever Built
+## THC - The Hacker Chat: The Most Secure Messaging Platform Ever Built
 
 ### The Simple Explanation:
 
-> "When you send a message on HackerChat, it's like putting a letter in a locked safe, then putting that safe inside an armored truck, then driving that truck through a secret underground tunnel that goes through three different countries before reaching its destination. Even if someone intercepts it at any point, they get nothing useful."
+> "When you send a message on THC - The Hacker Chat, it's like putting a letter in a locked safe, then putting that safe inside an armored truck, then driving that truck through a secret underground tunnel that goes through three different countries before reaching its destination. Even if someone intercepts it at any point, they get nothing useful."
 
 ### The Five Layers of Protection:
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
-║                 HACKERCHAT: 5-LAYER SECURITY ARCHITECTURE                 ║
+║                 THC - The Hacker Chat: 5-LAYER SECURITY ARCHITECTURE                 ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║                                                                           ║
 ║   LAYER 5: HARDWARE SECURITY VAULT                                        ║
@@ -122,7 +122,7 @@
 ║   Every message encrypted with recipient's PGP public key                 ║
 ║   • 30+ years of proven, unbroken security                                ║
 ║   • Only recipient's private key can decrypt                              ║
-║   • Even HackerChat servers cannot read messages                          ║
+║   • Even THC - The Hacker Chat servers cannot read messages                          ║
 ║                                                                           ║
 ║   LAYER 2: TLS 1.3 + OpenVPN TUNNEL                                       ║
 ║   ═══════════════════════════════════                                     ║
@@ -182,7 +182,7 @@
 ║     └─────────────────────────────────────────────────────────┘          ║
 ║       │                                                                   ║
 ║       ▼                                                                   ║
-║  HACKERCHAT SERVER                                                        ║
+║  THC - The Hacker Chat SERVER                                                        ║
 ║  ════════════════                                                         ║
 ║  • Receives encrypted blob                                                ║
 ║  • Cannot read message (PGP encrypted)                                    ║
@@ -242,7 +242,7 @@
 ║                                                                           ║
 ║  ─────────────────────────────────────────────────────────────────────    ║
 ║                                                                           ║
-║  HACKERCHAT: Triple Layer                                                 ║
+║  THC - The Hacker Chat: Triple Layer                                                 ║
 ║  ═══════════════════════════                                              ║
 ║                                                                           ║
 ║  [Your Phone]                                                             ║
@@ -268,7 +268,7 @@
 ║       │              │                                                    ║
 ║       └──────────────┼────────────────────────────────────────────────    ║
 ║                      ▼                                                    ║
-║              [HackerChat Server]                                          ║
+║              [THC - The Hacker Chat Server]                                          ║
 ║                                                                           ║
 ║  ✅ Three layers must ALL be broken to expose traffic                     ║
 ║  ✅ Server never sees your real IP (TOR anonymity)                        ║
@@ -357,7 +357,7 @@
 │     Exit Node (knows destination, not your IP)                          │
 │         │                                                               │
 │         ▼                                                               │
-│     HackerChat Server                                                   │
+│     THC - The Hacker Chat Server                                                   │
 │                                                                         │
 │  🔒 NO SINGLE POINT KNOWS BOTH SOURCE AND DESTINATION                   │
 │                                                                         │
@@ -434,7 +434,7 @@
 ### The Same Infrastructure Used by Whistleblowers
 
 **Source Protection**
-- TOR hides that you're even using HackerChat
+- TOR hides that you're even using THC - The Hacker Chat
 - PGP ensures only you can read source messages
 - No IP logs to subpoena — we don't have them
 
@@ -448,7 +448,7 @@
 - Share documents through encrypted, anonymized channels
 - No network forensics can reveal your sources
 
-> "HackerChat combines PGP (what Edward Snowden used) with TOR (what journalists use for SecureDrop). It's the most secure way to communicate with sources."
+> "THC - The Hacker Chat combines PGP (what Edward Snowden used) with TOR (what journalists use for SecureDrop). It's the most secure way to communicate with sources."
 
 ---
 
@@ -471,7 +471,7 @@
 - TOR routing bypasses national firewalls
 - No single government can block all TOR nodes
 
-> "When your safety depends on your communications being untraceable, HackerChat's TOR integration isn't a feature — it's a lifeline."
+> "When your safety depends on your communications being untraceable, THC - The Hacker Chat's TOR integration isn't a feature — it's a lifeline."
 
 ---
 
@@ -482,8 +482,8 @@
 **Complete Anonymity**
 - Your ISP sees only VPN traffic
 - VPN provider sees only TOR traffic
-- TOR exit sees only HackerChat server
-- HackerChat sees only encrypted blobs
+- TOR exit sees only THC - The Hacker Chat server
+- THC - The Hacker Chat sees only encrypted blobs
 - **NO ONE sees the complete picture**
 
 **Location Privacy**
@@ -496,15 +496,15 @@
 - Multiple remaining layers continue protection
 - Defense in depth = long-term security
 
-> "Most apps protect your messages. HackerChat protects your messages, your identity, your location, and your communication patterns. That's complete privacy."
+> "Most apps protect your messages. THC - The Hacker Chat protects your messages, your identity, your location, and your communication patterns. That's complete privacy."
 
 ---
 
 # SECTION 6: COMPETITIVE COMPARISON
 
-## HackerChat vs. The Competition
+## THC - The Hacker Chat vs. The Competition
 
-| Feature | HackerChat | WhatsApp | Signal | Telegram |
+| Feature | THC - The Hacker Chat | WhatsApp | Signal | Telegram |
 |---------|-----------|----------|--------|----------|
 | **End-to-End Encryption** | ✅ PGP (30yr proven) | ✅ Signal Protocol | ✅ Signal Protocol | ⚠️ Optional only |
 | **Transport: TLS 1.3** | ✅ | ✅ | ✅ | ✅ |
@@ -525,7 +525,7 @@
 ║                         ENCRYPTION LAYERS                                 ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║                                                                           ║
-║  WhatsApp:          Signal:           Telegram:         HackerChat:       ║
+║  WhatsApp:          Signal:           Telegram:         THC - The Hacker Chat:       ║
 ║  ══════════         ═══════           ═════════         ═══════════       ║
 ║                                                                           ║
 ║  ┌─────────┐        ┌─────────┐       ┌─────────┐       ┌─────────┐       ║
@@ -558,13 +558,13 @@
 > 
 > **Telegram** = Not actually E2E encrypted, your IP exposed
 > 
-> **HackerChat** = PGP + TLS 1.3 + VPN + TOR + Hardware keys = **Total protection**
+> **THC - The Hacker Chat** = PGP + TLS 1.3 + VPN + TOR + Hardware keys = **Total protection**
 
 ---
 
 # SECTION 7: TRUST & CREDIBILITY
 
-## Why Trust HackerChat?
+## Why Trust THC - The Hacker Chat?
 
 ### Built on Proven, Trusted Technologies:
 
@@ -651,7 +651,7 @@
 
 > "It's not about hiding — it's about protection. You lock your car even when there's nothing valuable inside. You close the bathroom door even though you're doing nothing wrong. Privacy is a right, not an admission of guilt.
 > 
-> More practically: today's innocent conversation could be tomorrow's leaked document. Business strategies, personal relationships, health discussions — they all deserve protection. HackerChat ensures your private conversations stay private."
+> More practically: today's innocent conversation could be tomorrow's leaked document. Business strategies, personal relationships, health discussions — they all deserve protection. THC - The Hacker Chat ensures your private conversations stay private."
 
 ---
 
@@ -701,7 +701,7 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
-║                    HACKERCHAT TECHNICAL SPECIFICATIONS                    ║
+║                    THC - The Hacker Chat TECHNICAL SPECIFICATIONS                    ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║                                                                           ║
 ║  MESSAGE ENCRYPTION (PGP)                                                 ║
@@ -754,13 +754,13 @@
 
 # SECTION 10: ONE-PAGE SUMMARY
 
-## HackerChat: The Most Secure Messaging Platform Ever Built
+## THC - The Hacker Chat: The Most Secure Messaging Platform Ever Built
 
 ### The Problem:
 Other messaging apps protect your messages but expose everything else — your IP address, location, communication patterns, and encryption keys stored in software. True privacy requires protecting the complete picture.
 
 ### The Solution:
-HackerChat combines five layers of proven security technology into one seamless platform:
+THC - The Hacker Chat combines five layers of proven security technology into one seamless platform:
 
 | Layer | Technology | Protection |
 |-------|------------|------------|
@@ -785,8 +785,8 @@ HackerChat combines five layers of proven security technology into one seamless 
 - Anyone who wants complete privacy
 
 ### The Bottom Line:
-> "Other apps encrypt your messages but expose your identity. HackerChat encrypts everything — your messages, your connection, your location, and your keys. It's not just secure messaging. It's invisible messaging."
+> "Other apps encrypt your messages but expose your identity. THC - The Hacker Chat encrypts everything — your messages, your connection, your location, and your keys. It's not just secure messaging. It's invisible messaging."
 
 ---
 
-**HackerChat** — *Encrypted. Anonymous. Untraceable.*
+**THC - The Hacker Chat** — *Encrypted. Anonymous. Untraceable.*
